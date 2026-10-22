@@ -1,0 +1,8 @@
+Pasta reservada para as imagens do site da Zênix Performance Digital.
+
+Recomendações:
+- Use imagens próprias ou com licença de uso comercial.
+- Prefira os formatos .webp ou .jpg otimizados (idealmente abaixo de 300 KB cada).
+- Use nomes sem espaços e sem acentos, por exemplo: projeto-contabilidade.webp
+- No index.html, referencie assim: <img src="fotos/projeto-contabilidade.webp" alt="Descrição da imagem" loading="lazy" width="800" height="600">
+- Imagens abaixo da primeira tela devem usar loading="lazy".
